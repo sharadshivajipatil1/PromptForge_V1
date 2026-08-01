@@ -1,0 +1,107 @@
+{
+  "Guests": [
+    {
+      "FullName": "Priya Sharma",
+      "PreferredLanguage": "hi",
+      "LoyaltyTier": "Platinum",
+      "RoomNumber": "812",
+      "ReservationCode": "RES-8842",
+      "Profession": "Software Engineer",
+      "TripPurpose": "Leisure",
+      "History": [
+        {
+          "Type": "Spa",
+          "Description": "Swedish massage and sauna relaxation",
+          "Date": "3 months ago",
+          "Rating": 5
+        },
+        {
+          "Type": "Dining",
+          "Description": "Japanese tasting dinner at Sakura",
+          "Date": "2 months ago",
+          "Rating": 4
+        },
+        {
+          "Type": "Activity",
+          "Description": "Rooftop sunset yoga session",
+          "Date": "1 month ago",
+          "Rating": 4
+        }
+      ]
+    },
+    {
+      "FullName": "James Carter",
+      "PreferredLanguage": "en",
+      "LoyaltyTier": "Gold",
+      "RoomNumber": "204",
+      "ReservationCode": "RES-1190",
+      "Profession": "Sales Executive",
+      "TripPurpose": "Business",
+      "History": [
+        {
+          "Type": "Dining",
+          "Description": "Business breakfast at the Garden Cafe",
+          "Date": "4 months ago",
+          "Rating": 4
+        },
+        {
+          "Type": "Spa",
+          "Description": "Express facial before evening meetings",
+          "Date": "2 months ago",
+          "Rating": 3
+        },
+        {
+          "Type": "Activity",
+          "Description": "Airport shuttle convenience request",
+          "Date": "1 month ago",
+          "Rating": 5
+        }
+      ]
+    },
+    {
+      "FullName": "Akira Tanaka",
+      "PreferredLanguage": "ja",
+      "LoyaltyTier": "Silver",
+      "RoomNumber": "515",
+      "ReservationCode": "RES-3327",
+      "Profession": "Chef",
+      "TripPurpose": "Leisure",
+      "History": [
+        {
+          "Type": "Dining",
+          "Description": "Chef\u0027s tasting menu at Olive Terrace",
+          "Date": "3 months ago",
+          "Rating": 5
+        },
+        {
+          "Type": "Spa",
+          "Description": "Hot stone therapy experience",
+          "Date": "2 months ago",
+          "Rating": 4
+        },
+        {
+          "Type": "Activity",
+          "Description": "Botanical garden walk",
+          "Date": "1 month ago",
+          "Rating": 5
+        }
+      ]
+    }
+  ],
+  "StaffUsers": [
+    {
+      "Username": "manager",
+      "FullName": "Morgan Ellis",
+      "Department": "Front Desk",
+      "Role": "FrontDesk",
+      "DefaultPassword": "Staff@123"
+    },
+    {
+      "Username": "frontdesk",
+      "FullName": "Dana Reyes",
+      "Department": "",
+      "Role": "FrontDesk",
+      "DefaultPassword": "Staff@123"
+    }
+  ]
+}

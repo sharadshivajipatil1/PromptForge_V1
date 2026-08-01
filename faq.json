@@ -1,0 +1,16 @@
+[
+  { "keywords": ["check-in", "check in", "checkin"], "answer": "You can check in digitally right from the app: open the Check-in tab, enter your reservation code, then upload a quick ID photo and selfie for verification. Your digital room key is issued the moment it's verified - no front-desk queue needed!" },
+  { "keywords": ["check-out", "check out", "checkout"], "answer": "Checkout is at 11 AM. You can check out anytime from the Check-in/Check-out tab in the app, or ask me to arrange a late checkout for you." },
+  { "keywords": ["wifi", "wi-fi", "internet"], "answer": "The Wi-Fi network is 'Hotel-Guest' and the password is printed on your room key sleeve." },
+  { "keywords": ["spa", "massage"], "answer": "Our spa is open 9 AM - 8 PM daily. Check the Recommendations tab for open slots, or ask me to book one for you." },
+  { "keywords": ["pool", "swim"], "answer": "The rooftop pool is open 7 AM - 9 PM daily, weather permitting. Towels are provided poolside." },
+  { "keywords": ["gym", "fitness", "workout"], "answer": "Our 24-hour fitness center is on the 2nd floor, accessible with your room key." },
+  { "keywords": ["breakfast", "restaurant", "dinner", "dining", "food"], "answer": "Breakfast is served 7-10:30 AM at the Garden Cafe. For dinner, I'd recommend Sakura Japanese Restaurant or Olive Terrace - want me to reserve a table?" },
+  { "keywords": ["parking", "valet"], "answer": "We offer valet parking for $35/night, or self-parking in the adjacent garage for $20/night." },
+  { "keywords": ["pet", "dog", "cat"], "answer": "We're pet-friendly! A one-time $75 pet fee applies per stay - just let the front desk know your pet's details." },
+  { "keywords": ["laundry", "dry clean"], "answer": "Laundry and dry-cleaning bags are in your closet; hand them to housekeeping or drop them at the front desk before 9 AM for same-day service." },
+  { "keywords": ["luggage", "bell desk", "bags"], "answer": "Our bell desk can store or help with your luggage anytime - just head to the lobby or ask me to send someone to your room." },
+  { "keywords": ["smoking", "smoke"], "answer": "All rooms and indoor areas are non-smoking. There's a designated smoking area near the pool deck." },
+  { "keywords": ["shuttle", "airport"], "answer": "We run a complimentary airport shuttle every 30 minutes from 5 AM - 11 PM. Let me know your flight time and I can arrange pickup." },
+  { "keywords": ["atm", "currency", "exchange"], "answer": "There's an ATM in the lobby, and the front desk can help with currency exchange during business hours." }
+]

@@ -1,0 +1,371 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `PriorityRecommendationDto` and extend `ForecastDto`": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586878796
+      },
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586908783
+      },
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587344661
+      }
+    ],
+    "2.1 Create `OperationsBedrockService` skeleton and configuration": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586878860
+      },
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587351712
+      },
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587684119
+      }
+    ],
+    "2.2 Implement `ParsePriority` and `BuildSessionId` static helpers": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586878923
+      },
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587685280
+      },
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587778546
+      }
+    ],
+    "2.4 Implement `GetPriorityRecommendationAsync`": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879031
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119021
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785589336766
+      }
+    ],
+    "2.5 Implement `GetOperationsForecastAsync`": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879088
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119083
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785589341014
+      }
+    ],
+    "2.6 Register `OperationsBedrockService` in `Program.cs`": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879140
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119153
+      }
+    ],
+    "3. Checkpoint — Build and verify backend compiles": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879250
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119240
+      }
+    ],
+    "4.1 Add optional `Priority` field to `CreateTaskRequest` and update `POST /api/dashboard/tasks`": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879313
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119318
+      }
+    ],
+    "4.3 Add `POST /api/dashboard/task-priority` endpoint": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879378
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119433
+      }
+    ],
+    "4.4 Update `GET /api/dashboard/forecast` to use `OperationsBedrockService` with fallback": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879442
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119494
+      }
+    ],
+    "5.1 Create Lambda function code": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879550
+      },
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587352446
+      },
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587662772
+      }
+    ],
+    "6. Checkpoint — Verify Lambda works locally": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879602
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119620
+      }
+    ],
+    "7.1 Add `PriorityRecommendation` and `EnrichedForecastSummary` to `app.models.ts`": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879666
+      },
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587353291
+      },
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587664065
+      }
+    ],
+    "7.2 Add `getPriorityRecommendation()` and update `getForecast()` in `StaffService`": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879775
+      },
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587686326
+      },
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587779506
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119685
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588140962
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785589324680
+      }
+    ],
+    "8.1 Add debounced priority suggestion to the task creation form": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879830
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119823
+      }
+    ],
+    "8.2 Add priority suggestion UI to the task creation form template": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879896
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119893
+      }
+    ],
+    "9.1 Add forecast loading and data state to the component": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879950
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588120055
+      }
+    ],
+    "9.2 Add prediction panel template above the stats grid": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586879999
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588120121
+      }
+    ],
+    "9.3 Add prediction panel styles": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586880056
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588120205
+      }
+    ],
+    "10. Final Checkpoint — Ensure all tests pass": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785586880168
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588120416
+      }
+    ],
+    "1. Extend domain types": [
+      {
+        "executionId": "7e44676b-40cb-4075-b17b-49351b701673",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587344720
+      }
+    ],
+    "5. Implement `operations-data-lookup` Lambda": [
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587662876
+      }
+    ],
+    "7. Update Angular models and service": [
+      {
+        "executionId": "d8628246-d9bd-45bc-9c22-9140c24c8bd0",
+        "chatSessionId": "sess_a627b427-20c0-4915-a2a9-b893876cfaba",
+        "timestamp": 1785587779617
+      }
+    ],
+    "2.3 Write property tests for `ParsePriority` and `BuildSessionId`": [
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588118891
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785589332662
+      }
+    ],
+    "4.2 Write property tests for `CreateTask` priority handling": [
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119374
+      }
+    ],
+    "5.2 Write a unit test for the Lambda handler": [
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119554
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588137167
+      },
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785589328401
+      }
+    ],
+    "8.3 Write property and example tests for priority suggestion rendering": [
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588119960
+      }
+    ],
+    "9.4 Write property and example tests for the prediction panel": [
+      {
+        "executionId": "015da995-635e-4dc1-a1b9-a55d79fc3ef4",
+        "chatSessionId": "sess_6688afad-ae35-49f5-bc7d-0a1079594c14",
+        "timestamp": 1785588120289
+      }
+    ]
+  }
+}

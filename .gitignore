@@ -1,0 +1,68 @@
+# .NET
+**/bin/
+**/obj/
+**/out/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.jfm
+*.pdb
+*.cache
+*.log
+
+# ASP.NET Core / local secrets
+secrets.json
+*.csproj.user
+
+# Angular / Node
+node_modules/
+dist/
+build/
+.angular/
+coverage/
+.parcel-cache/
+.npm/
+.nyc_output/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+*.env
+
+# AWS & Security files
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+aws-credentials*
+credentials
+config/aws*
+.aws/
+
+# Local configuration with potential secrets
+appsettings.Local.json
+appsettings.Production.json
+connectionStrings.json
+secrets*.json
+*secret*
+*credential*
+
+# IDE & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*.orig

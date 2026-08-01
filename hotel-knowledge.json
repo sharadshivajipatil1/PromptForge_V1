@@ -1,0 +1,253 @@
+[
+  {
+    "category": "Rooms",
+    "topic": "Deluxe King Room",
+    "keywords": ["deluxe king", "king room", "king bed", "room type", "room types", "what rooms", "available rooms"],
+    "facts": [
+      "The Deluxe King Room features a king-sized bed, city view, 55-inch smart TV, and a marble en-suite bathroom with a rainfall shower.",
+      "Room size is 42 sqm. Maximum occupancy is 2 adults.",
+      "Includes complimentary minibar refresh once daily, Nespresso machine, and high-speed Wi-Fi."
+    ]
+  },
+  {
+    "category": "Rooms",
+    "topic": "Deluxe Twin Room",
+    "keywords": ["twin room", "twin beds", "two beds", "double beds"],
+    "facts": [
+      "The Deluxe Twin Room has two single beds, garden view, 55-inch smart TV, and a marble en-suite bathroom.",
+      "Room size is 40 sqm. Maximum occupancy is 2 adults.",
+      "Ideal for travelling colleagues or friends. Includes Nespresso machine and high-speed Wi-Fi."
+    ]
+  },
+  {
+    "category": "Rooms",
+    "topic": "Junior Suite",
+    "keywords": ["junior suite", "suite", "suites", "upgrade", "larger room"],
+    "facts": [
+      "The Junior Suite offers a separate living area with a sofa, king-sized bed, panoramic city view, and a luxury bathroom with a deep-soaking tub and separate rainfall shower.",
+      "Room size is 68 sqm. Maximum occupancy is 2 adults.",
+      "Includes premium minibar, Nespresso machine, complimentary pressing of 2 garments per day, and butler service on request."
+    ]
+  },
+  {
+    "category": "Rooms",
+    "topic": "Presidential Suite",
+    "keywords": ["presidential suite", "presidential", "penthouse", "best room", "top suite"],
+    "facts": [
+      "The Presidential Suite spans 180 sqm across two floors with a private terrace, panoramic views, a grand living room, dining area for 8, and two king bedrooms.",
+      "Includes a private butler, dedicated check-in, complimentary airport transfers, daily fruit basket, and access to the Executive Lounge.",
+      "Maximum occupancy is 4 adults. Available on request — please contact the front desk to arrange."
+    ]
+  },
+  {
+    "category": "Rooms",
+    "topic": "Room Amenities",
+    "keywords": ["room amenities", "in-room", "in room", "minibar", "safe", "iron", "hairdryer", "coffee", "nespresso", "kettle", "toiletries"],
+    "facts": [
+      "All rooms include: high-speed Wi-Fi, 55-inch smart TV, in-room safe, minibar, Nespresso machine, electric kettle, iron and ironing board, hairdryer, and premium Molton Brown toiletries.",
+      "Rooms are serviced daily between 9 AM and 12 PM. Turn-down service is available on request.",
+      "Extra pillows, blankets, or a cot can be requested from housekeeping at any time."
+    ]
+  },
+  {
+    "category": "Dining",
+    "topic": "Garden Cafe",
+    "keywords": ["garden cafe", "breakfast", "brunch", "morning food", "breakfast hours"],
+    "facts": [
+      "Garden Cafe serves breakfast daily from 7:00 AM to 10:30 AM.",
+      "The menu offers a full buffet with hot and cold options, fresh juices, pastries, eggs cooked to order, and a healthy corner.",
+      "Private dining and room service breakfast orders can be arranged by calling the concierge."
+    ]
+  },
+  {
+    "category": "Dining",
+    "topic": "Sakura Japanese Restaurant",
+    "keywords": ["sakura", "japanese", "sushi", "sashimi", "ramen", "japanese food", "japanese restaurant"],
+    "facts": [
+      "Sakura Japanese Restaurant is open for lunch (12 PM–3 PM) and dinner (6 PM–10:30 PM) daily.",
+      "The menu features authentic Japanese cuisine: sushi, sashimi, teppanyaki, ramen, and a curated sake and whisky selection.",
+      "Reservations are recommended for dinner. Contact the concierge or front desk to book a table."
+    ]
+  },
+  {
+    "category": "Dining",
+    "topic": "Olive Terrace",
+    "keywords": ["olive terrace", "mediterranean", "terrace", "outdoor dining", "al fresco", "dinner", "lunch"],
+    "facts": [
+      "Olive Terrace serves Mediterranean cuisine in an open-air terrace setting, open daily for lunch (12 PM–3 PM) and dinner (6:30 PM–11 PM).",
+      "Signature dishes include wood-fired sea bass, mezze platters, and house-made pasta.",
+      "Live music is featured every Friday and Saturday evening. Reservations recommended on weekends."
+    ]
+  },
+  {
+    "category": "Dining",
+    "topic": "Room Service",
+    "keywords": ["room service", "in-room dining", "food delivery", "order food", "eat in room"],
+    "facts": [
+      "Room service is available 24 hours a day, 7 days a week.",
+      "The room service menu includes light bites, full meals, desserts, and beverages from all hotel restaurants.",
+      "Orders typically arrive within 30–45 minutes. Call the in-room dining extension or use the hotel app to order."
+    ]
+  },
+  {
+    "category": "Amenities",
+    "topic": "Spa",
+    "keywords": ["spa", "massage", "facial", "treatment", "body treatment", "relaxation", "wellness"],
+    "facts": [
+      "The hotel spa is open daily from 9 AM to 8 PM.",
+      "Services include Swedish and deep-tissue massage, hot stone therapy, aromatherapy, facials, body wraps, and couple's treatment suites.",
+      "Treatments range from 30 minutes to 3 hours. Advance booking is recommended — contact the concierge or front desk to reserve."
+    ]
+  },
+  {
+    "category": "Amenities",
+    "topic": "Rooftop Pool",
+    "keywords": ["pool", "rooftop pool", "swim", "swimming", "poolside"],
+    "facts": [
+      "The rooftop infinity pool is open daily from 7 AM to 9 PM, weather permitting.",
+      "Poolside towels, loungers, and sunbeds are complimentary for hotel guests.",
+      "The pool bar serves drinks, juices, and light snacks from 10 AM to 8 PM."
+    ]
+  },
+  {
+    "category": "Amenities",
+    "topic": "Fitness Centre",
+    "keywords": ["gym", "fitness", "workout", "exercise", "weights", "treadmill", "personal trainer"],
+    "facts": [
+      "The fitness centre on the 2nd floor is open 24 hours a day, 7 days a week and is accessible with your room key.",
+      "Equipment includes cardio machines, free weights, resistance machines, and a stretching area.",
+      "Personal training sessions and group classes (yoga, pilates, HIIT) can be arranged through the concierge."
+    ]
+  },
+  {
+    "category": "Amenities",
+    "topic": "Conference Room",
+    "keywords": ["conference room", "conference", "meeting room", "board room", "boardroom", "event space", "meeting", "business meeting", "seminar", "workshop"],
+    "facts": [
+      "The hotel has 3 fully equipped conference rooms accommodating 10 to 120 guests.",
+      "All rooms include AV equipment, high-speed Wi-Fi, whiteboards, and video conferencing facilities.",
+      "Catering packages, secretarial services, and dedicated event coordination are available.",
+      "To check availability and rates, please contact the front desk or the events team."
+    ]
+  },
+  {
+    "category": "Amenities",
+    "topic": "Business Centre",
+    "keywords": ["business centre", "business center", "print", "printer", "fax", "computer", "office"],
+    "facts": [
+      "The business centre is located on the ground floor and is open from 7 AM to 9 PM daily.",
+      "Facilities include computers, high-speed printing, scanning, faxing, and courier services.",
+      "Private office pods are available for hourly rental — contact the front desk to arrange."
+    ]
+  },
+  {
+    "category": "Services",
+    "topic": "Concierge Services",
+    "keywords": ["concierge", "help", "assistance", "arrange", "recommendation", "book", "reservation", "ticket"],
+    "facts": [
+      "The concierge desk is staffed 24 hours a day and can assist with restaurant reservations, theatre tickets, sightseeing tours, and local recommendations.",
+      "Services include arranging private car hire, helicopter transfers, yacht charters, and bespoke city experiences.",
+      "Contact the concierge by phone, the hotel app, or by visiting the desk in the lobby."
+    ]
+  },
+  {
+    "category": "Services",
+    "topic": "Airport Transfer",
+    "keywords": ["airport", "transfer", "shuttle", "pickup", "pick up", "drop off", "taxi", "car"],
+    "facts": [
+      "A complimentary airport shuttle runs every 30 minutes between 5 AM and 11 PM.",
+      "Private car transfers can be arranged 24/7 at an additional cost — contact the concierge at least 2 hours in advance.",
+      "The drive to the main international airport takes approximately 35 minutes depending on traffic."
+    ]
+  },
+  {
+    "category": "Services",
+    "topic": "Laundry and Dry Cleaning",
+    "keywords": ["laundry", "dry clean", "dry cleaning", "washing", "clothes", "pressing", "ironing service"],
+    "facts": [
+      "Laundry and dry-cleaning bags are available in your wardrobe.",
+      "Items dropped before 9 AM are returned the same day by 6 PM.",
+      "An express 4-hour laundry service is available at a premium — request via the hotel app or by calling housekeeping."
+    ]
+  },
+  {
+    "category": "Services",
+    "topic": "Luggage Storage",
+    "keywords": ["luggage", "bags", "storage", "store bags", "bell desk", "bellboy", "porter"],
+    "facts": [
+      "Complimentary luggage storage is available at the bell desk 24 hours a day.",
+      "The bell desk can also assist with delivering luggage to and from your room.",
+      "Oversized or sports equipment storage can be arranged — please contact the front desk."
+    ]
+  },
+  {
+    "category": "Services",
+    "topic": "Valet and Parking",
+    "keywords": ["parking", "valet", "car park", "self parking", "park", "vehicle"],
+    "facts": [
+      "Valet parking is available at $35 per night with unlimited in-and-out privileges.",
+      "Self-parking is available in the adjacent multi-storey car park at $20 per night.",
+      "Electric vehicle charging bays are available in the self-park facility — subject to availability."
+    ]
+  },
+  {
+    "category": "Services",
+    "topic": "Pet Policy",
+    "keywords": ["pet", "dog", "cat", "animal", "pets allowed", "pet friendly"],
+    "facts": [
+      "The hotel is pet-friendly and welcomes dogs and cats.",
+      "A one-time pet fee of $75 applies per stay. Please inform the front desk of your pet at check-in.",
+      "Pet amenities including a bed, food bowls, and welcome treats are provided on request."
+    ]
+  },
+  {
+    "category": "Services",
+    "topic": "Wi-Fi",
+    "keywords": ["wifi", "wi-fi", "internet", "wireless", "password", "network", "connect"],
+    "facts": [
+      "Complimentary high-speed Wi-Fi is available throughout the hotel.",
+      "Network name: Hotel-Guest. The password is printed on your room key sleeve and available from the front desk.",
+      "A premium high-bandwidth connection is available for guests requiring video conferencing or large file transfers — ask the front desk."
+    ]
+  },
+  {
+    "category": "Policies",
+    "topic": "Check-in and Check-out",
+    "keywords": ["check-in", "check in", "checkin", "check-out", "check out", "checkout", "early check", "late check", "late checkout"],
+    "facts": [
+      "Standard check-in time is 3 PM and check-out is 11 AM.",
+      "Early check-in and late check-out are subject to availability and may incur an additional charge — please request at the front desk.",
+      "Digital self check-in is available via the hotel app from 10 AM on your arrival day."
+    ]
+  },
+  {
+    "category": "Policies",
+    "topic": "Smoking Policy",
+    "keywords": ["smoking", "smoke", "cigarette", "vaping", "vape", "cigar"],
+    "facts": [
+      "The hotel is entirely non-smoking indoors including all rooms, restaurants, and public areas.",
+      "A designated outdoor smoking area is located near the pool deck on the 3rd floor.",
+      "Smoking in a guest room will result in a deep-cleaning fee of $250."
+    ]
+  },
+  {
+    "category": "Policies",
+    "topic": "Accessibility",
+    "keywords": ["wheelchair", "accessible", "disability", "disabled", "mobility", "hearing loop", "accessible room"],
+    "facts": [
+      "The hotel has fully accessible rooms with roll-in showers, grab rails, and lowered wardrobes — available on request.",
+      "All public areas, restaurants, and the spa are wheelchair accessible via lifts and ramps.",
+      "Hearing loop systems are available in all conference rooms. Please advise the front desk of any accessibility requirements at booking."
+    ]
+  },
+  {
+    "category": "Local",
+    "topic": "Local Attractions",
+    "keywords": ["local", "attractions", "nearby", "sightseeing", "what to do", "explore", "city", "places to visit", "things to do"],
+    "facts": [
+      "The hotel concierge can arrange guided city tours, museum visits, and cultural experiences tailored to your interests.",
+      "Popular nearby attractions include the National Museum (10 min by car), the Old Town shopping district (15 min walk), and the Botanical Gardens (5 min by taxi).",
+      "The concierge desk has maps, transport passes, and can book skip-the-line tickets for major attractions."
+    ]
+  }
+]

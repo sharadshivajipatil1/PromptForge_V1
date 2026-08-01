@@ -1,0 +1,4 @@
+{
+  "critical": ["fire", "smoke", "gas leak", "gas smell", "carbon monoxide", "co2 detector", "electrical", "spark", "shock", "exposed wire", "evacuat", "emergency", "hazard", "explosion"],
+  "urgent": ["leak", "flood", "no power", "no electricity", "broken glass", "blocked exit", "safety"]
+}

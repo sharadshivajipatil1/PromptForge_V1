@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HospitalityAI.Domain\HospitalityAI.Domain.csproj" />
+    <ProjectReference Include="..\HospitalityAI.Infrastructure\HospitalityAI.Infrastructure.csproj" />
+    <ProjectReference Include="..\HospitalityAI.Agents\HospitalityAI.Agents.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Reference data files copied to output so JsonReferenceDataLoader can find them -->
+    <Content Include="..\faq.json" CopyToOutputDirectory="PreserveNewest" Link="faq.json" />
+    <Content Include="..\hotel-knowledge.json" CopyToOutputDirectory="PreserveNewest" Link="hotel-knowledge.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Amazon.Lambda.Core" Version="2.1.0" />
+    <PackageReference Include="AWSSDK.Bedrock" Version="3.7.100.0" />
+    <PackageReference Include="AWSSDK.BedrockAgentRuntime" Version="3.7.100.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+</Project>

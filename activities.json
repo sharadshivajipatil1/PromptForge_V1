@@ -1,0 +1,13 @@
+{
+  "seasonalActivities": [
+    { "season": "Summer", "title": "Rooftop Pool Cabana", "description": "A shaded cabana with chilled towels and a curated summer drinks menu.", "hoursFromNow": 2, "confidence": 0.6, "reason": "It's peak summer, so our rooftop pool is the most-loved spot for guests right now." },
+    { "season": "Winter", "title": "Fireside Lounge Evening", "description": "Warm drinks and live acoustic music beside the lobby fireplace.", "hoursFromNow": 6, "confidence": 0.6, "reason": "With the winter chill outside, our fireside lounge is a cozy way to spend the evening." },
+    { "season": "Spring", "title": "Botanical Garden Walk", "description": "A guided walk through the hotel's blooming spring gardens.", "hoursFromNow": 2, "confidence": 0.55, "reason": "Spring is in full bloom, so our gardens are especially worth a visit this time of year." },
+    { "season": "Autumn", "title": "City Highlights Walking Tour", "description": "A guided evening walk through the historic city center.", "hoursFromNow": 3, "confidence": 0.55, "reason": "The mild autumn weather makes this a great time for an outdoor city tour." }
+  ],
+  "professionActivities": [
+    { "matchKeywords": ["engineer", "developer", "it "], "title": "Quiet Co-Working Lounge Session", "description": "A calm, high-speed-wifi lounge space away from the pool crowd, with unlimited coffee.", "hoursFromNow": 3, "confidence": 0.75, "reasonTemplate": "As a {profession}, you probably like a quiet, connected space to decompress between meetings or side projects." },
+    { "matchKeywords": ["chef", "culinary"], "title": "Behind-the-Scenes Kitchen Tasting", "description": "A private walkthrough of our kitchen with the executive chef, tasting tomorrow's tasting-menu prep.", "hoursFromNow": 4, "confidence": 0.8, "reasonTemplate": "Given your background as a {profession}, we thought you'd enjoy seeing (and tasting) what's behind our menu." },
+    { "matchKeywords": ["sales", "executive", "manager"], "title": "Express Business Lounge Access", "description": "Private meeting pods, express printing, and a fast-track lounge for calls between appointments.", "hoursFromNow": 1, "confidence": 0.7, "reasonTemplate": "Since this is a {tripPurpose} trip, a distraction-free business lounge should help you stay on schedule." }
+  ]
+}
